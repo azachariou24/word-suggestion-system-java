@@ -228,12 +228,15 @@ word-suggestion-system-java/
 │   ├── Dictionary.txt
 │   └── Letter.txt
 │   ├── LowerCase_Words.txt
+│
 ├── images/
 │   ├── architecture.png
 │   └── memory-comparison.png
+│
 ├── report/
 │   └──Report.pdf
 │   └──ExperimentalResults.xlsx
+│
 ├── README.md
 ├── LICENSE
 └── .gitignore
