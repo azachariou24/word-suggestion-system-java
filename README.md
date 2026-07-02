@@ -289,6 +289,6 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-Developed by **Anastasis Zachariou**
+Maintained by **Anastasis Zachariou**
 
 </div>
