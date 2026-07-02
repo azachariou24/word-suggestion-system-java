@@ -225,6 +225,9 @@ word-suggestion-system-java/
 │           └── WordNode.java
 │
 ├── data/
+│   ├── Dictionary.txt
+│   └── Letter.txt
+│   ├── LowerCase_Words.txt
 ├── images/
 │   ├── architecture.png
 │   └── memory-comparison.png
