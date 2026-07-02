@@ -273,6 +273,14 @@ Possible future extensions include:
 
 ---
 
+## Acknowledgements
+
+This project was originally developed as part of a university assignment in collaboration with **Neofytos Kaikitis**.
+
+The repository structure, documentation, experimental presentation, and GitHub publication were prepared by **Anastasis Zachariou**.
+
+---
+
 ## License
 
 This project is licensed under the **MIT License**.
