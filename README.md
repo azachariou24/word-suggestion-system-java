@@ -23,7 +23,7 @@ The project includes two independent Trie implementations:
 
 Both implementations provide identical functionality while employing different internal storage strategies. Their memory consumption is experimentally evaluated and compared using dictionaries of various sizes.
 
-*Experimental evaluation demonstrates that the Robin Hood Trie achieves substantially lower memory consumption than the Static Array Trie while providing identical functionality.*
+*Beyond the implementation itself, the project emphasizes algorithm analysis, memory-efficient data structures, and experimental evaluation of alternative Trie representations.*
 
 ---
 
